@@ -36,6 +36,7 @@ XP: 7342
 
 
 O Herói de nome Arthur está no nível de Platina
+
 💡 Aprendizados
 
 Esse projeto foi uma oportunidade para treinar como transformar uma regra escrita em um problema real de programação.
