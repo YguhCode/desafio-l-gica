@@ -36,7 +36,7 @@ public class main {
         }
         System.out.println("Nome: " + nome);
         System.out.println("XP: "+ xp);
-        System.out.println("Seu atual é : "+ nivel);
+        System.out.println("Seu nivel atual é : "+ nivel);
 
 
 
