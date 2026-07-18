@@ -34,6 +34,7 @@ Digite o nome do seu herói: Arthur
 Nome: Arthur
 XP: 7342
 
+
 O Herói de nome Arthur está no nível de Platina
 💡 Aprendizados
 
